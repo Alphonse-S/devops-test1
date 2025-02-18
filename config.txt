@@ -9,3 +9,25 @@ Allowances	300.00
 Deductions	-200.00
 Benefits  300.00
 Net Pay: $4900.00
+
+-------------------------------------------
+| Employee Name: John Doe                |
+| Employee ID: 12345                     |
+| Pay Period: 01/10/2023 - 31/10/2023    |
+-------------------------------------------
+| Earnings:                              |
+| - Basic Salary: $3000.00               |
+| - Overtime: $200.00                    |
+| Total Earnings: $3200.00               |
+-------------------------------------------
+| Deductions:                            |
+| - Income Tax: $500.00                  |
+| - Social Security: $200.00             |
+| - Health Insurance: $100.00            |
+| Total Deductions: $800.00              |
+-------------------------------------------
+| Net Pay: $2400.00                      |
+-------------------------------------------
+| YTD Earnings: $32000.00                |
+| YTD Deductions: $8000.00               |
+-------------------------------------------
