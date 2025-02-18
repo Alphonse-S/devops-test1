@@ -1,0 +1,10 @@
+Employee Name: John Doe
+Employee ID: 12345
+Pay Period: October 2023
+
+Description	Amount ($)
+Basic Salary	4000.00
+Overtime	500.00
+Allowances	300.00
+Deductions	-200.00
+Net Pay: $4600.00
